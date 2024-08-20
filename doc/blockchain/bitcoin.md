@@ -3,5 +3,5 @@
 ```ruby
 Faker::Blockchain::Bitcoin.address #=> "1HUoGjmgChmnxxYhz87YytV4gVjfPaExmh"
 
-Faker::Blockchain::Bitcoin.testnet_address #=> "msHGunDvoEwmVFXvd2Bub1SNw5RP1YHJaf"
+Faker::Blockchain::Bitcoin.testnet_address #=> "0x827CcFB5596BC8845FD97AcE7792D431e86d17b6"
 ```
